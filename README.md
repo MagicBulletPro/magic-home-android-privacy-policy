@@ -56,7 +56,7 @@ Magic Home uses minimal third-party components:
 
 ## 7. Children's Privacy
 
-Magic Home is not directed toward children under 13 years of age. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us so we can delete such information.
+We do not knowingly collect personal information from children under 13.
 
 ## 8. Data Retention
 
